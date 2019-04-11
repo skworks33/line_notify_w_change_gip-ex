@@ -1,0 +1,11 @@
+*~
+*.bak
+.DS_Store
+.buildpath
+.project
+.settings
+.idea
+.egg-info
+*.pyc
+
+ip.txt
